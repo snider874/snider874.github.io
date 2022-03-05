@@ -51,7 +51,7 @@
       "level": "",
       "keywords": [
         "C#",
-        "MySQL",
+        "SQL",
         
       ]
     },
@@ -60,10 +60,10 @@
       "level": "",
       "keywords": [
         "MacOS",
-        "Ubuntu",
+        "Windows",
         "Git/GitHub",
-        "g++",
-        "TI LaunchPad"
+        "MySQL",
+        "Visual Studio and Visual Studio Code"
       ]
     }
   ],
@@ -86,10 +86,9 @@
       "website": "",
       "startDate": "2018-09-10",
       "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "summary": "",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
+        "Production of two missile defense systems for military support",
       ]
     },
     {
@@ -99,28 +98,14 @@
       "endDate": "2018-09-04",
       "summary": "",
       "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
+        "Utilize DBMS to oversee and maintain accurate and efficient inventory control for large scale accounts",
       ]
     }
   ],
  
     }
   ],
-  "awards": [
-    {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
-    },
-    {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
-    }
-  ],
+  
   "references": [
     {
       "name": "Available upon request",
