@@ -1,57 +1,46 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
+    "name": "Scott Snider",
     "label": "Student",
-    "picture": "https://techfolios.github.io/template/images/molly.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2020.",
+    "picture": "https://snider874.github.io/images/molly.png",
+    "email": "snider874@gmail.com",
+    "phone": "502-759-8395",
+    "website": "https://snider874.github.io",
+    "summary": "I am studying for a A.S. in Computer Science in the Department of Information Technology at Sullivan University. I expect to graduate in Spring, 2022.",
     "location": {
-      "address": "",
-      "postalCode": "96822",
-      "city": "Honolulu",
+      "address": "10619 Sparrow Cir",
+      "postalCode": "40118",
+      "city": "Fairdale",
       "countryCode": "USA",
-      "region": "Hawaii"
+      "region": "Kentucky"
     },
     "profiles": [
       {
         "network": "github",
-        "username": "mmaluhia",
-        "url": "http://github.com/changeme"
+        "username": "snider874",
+        "url": "http://github.com/snider874"
       },
       {
         "network": "linkedin",
-        "username": "mollymaluhia",
-        "url": "http://linkedin.com/in/changeme"
-      },
-      {
-        "network": "twitter",
-        "username": "mollymal",
-        "url": "http://twitter.com/changeme"
-      },
-      {
-        "network": "instagram",
-        "username": "molly",
-        "url": "http://instagram.com/changeme"
+        "username": "Scott Snider",
+        "url": "https://www.linkedin.com/in/scott-snider-5b5718233/"
       }
     ]
   },
   "interests": [
     {
-      "name": "internet of things",
+      "name": "Object-Oriented Programming",
       "keywords": [
-        "Arduino",
-        "TI MSP430"
+        
       ]
     },
     {
-      "name": "data mining",
+      "name": "database management",
       "keywords": [
       ]
     },
     {
-      "name": "artificial intelligence",
+      "name": "website design",
       "keywords": [
       ]
     }
