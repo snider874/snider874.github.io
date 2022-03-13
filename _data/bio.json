@@ -86,7 +86,7 @@
       "website": "",
       "startDate": "2018-09-10",
       "endDate": "Present",
-      "summary": "",
+      "summary": "Production of missile defense weapon systems for military support",
       "highlights": [
         "Production of two missile defense systems for military support",
       ]
@@ -96,9 +96,10 @@
       "position": "Inventory Specialist",
       "startDate": "2006-09-18",
       "endDate": "2018-09-04",
-      "summary": "",
+      "summary": "Manage and control inventory for customer accounts like Toshiba and Hewlett Packard",
       "highlights": [
-        "Utilize DBMS to oversee and maintain accurate and efficient inventory control for large scale accounts",
+        "Utilize DBMS to oversee and maintain accurate and efficient inventory control for large scale accounts","Perform cycle counts to ensure accuracy levels",
+        "Resolve inventory discrepancies using root cause analysis"
       ]
     }
   ],
