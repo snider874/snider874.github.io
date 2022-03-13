@@ -1,9 +1,7 @@
 ---
 layout: project
 type: project
-image: images/micromouse.jpg
-title: Micromouse
-permalink: projects/micromouse
+title: Memory Match Game
 # All dates must be YYYY-MM-DD format!
 date: 2022-02-06
 labels:
@@ -100,33 +98,6 @@ A computer mouse is all that’s required to play the game
 Visual Studio is required to play the game
 
 5.	Test/Evaluation Experimental Procedure and Analysis of Results (How your project works include test images/diagrams)
-
-The screen below shows the how the game appears once started in Visual Studio
-
- 
-
-
-
-The next screen shots (below) show that the player has selected two squares that don’t have matching graphics (left), since the graphics don’t match both images don’t remain visible to the player (right)
-
-
-                
-
-
-
-The next screen shot (below) shows a correct match that has been found by the player. Since it was a match, both squares remain visible.
-
- 
-
-
-
-
-The final screen shot below shows that the player has found all matches and shows the pop-up message that lets the player know they’ve won.
-
- 
-
-
-
 
 
 6.	Societal impact of project including legal and ethical considerations (What benefits your project has to individuals or any group of people. Does it have any legal or ethical impacts to the society?
