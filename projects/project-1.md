@@ -10,8 +10,6 @@ labels:
   - C# Programming
 summary: UML design and c# code designing a match game in Visual Studio that can be played in the GUI
 ---
-
-Title Cover Page: Include Project Title, Date, Team Members, Course name and Course ID
  
 
 Memory Match Game, Scott Snider, Principles of System Design, CSC272
