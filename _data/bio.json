@@ -35,12 +35,12 @@
       ]
     },
     {
-      "name": "database management",
+      "name": "Database Management",
       "keywords": [
       ]
     },
     {
-      "name": "website design",
+      "name": "Website Design",
       "keywords": [
       ]
     },
@@ -62,6 +62,8 @@
       "keywords": [
         "C#",
         "SQL",
+        "HTML5",
+        "CSS",
         
       ]
     },
